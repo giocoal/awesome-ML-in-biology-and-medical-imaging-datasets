@@ -10,7 +10,7 @@
   <img width="300" src="https://i.imgur.com/Ky2jxnj.png" "Awesome!">
 </p>
 
-🧬☣️An up-to-date and curated list of awesome Machine Learning in Biology and Medical Imaging project ideas, papers, datasets and repositories.
+🧬☣️ An up-to-date and curated list of awesome Machine Learning in Biology and Medical Imaging project ideas, papers, datasets and repositories.
 
 # Medical Imaging (classification/generation)
 
