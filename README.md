@@ -12,7 +12,7 @@
 
 🧬☣️An up-to-date and curated list of awesome Machine Learning in Biology and Medical Imaging project ideas, papers, datasets and repositories.
 
-# Medical Imaging
+# Medical Imaging (classification/generation)
 
 ## Datasets
 
@@ -82,6 +82,21 @@
 - [COVID-19 Chest CT image Augmentation GAN Dataset | Kaggle](https://www.kaggle.com/datasets/mloey1/covid19-chest-ct-image-augmentation-gan-dataset)
 - [COVID‐19 diagnosis on CT scan images using a generative adversarial network and concatenated feature pyramid network with an attention mechanism - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8420535/)
 - [CCS-GAN: COVID-19 CT Scan Generation and Classification with Very Few Positive Training Images - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10109233/)
+
+# Medical Imaging (segmentation)
+
+## Datasets
+- Prostate Cancer Segmentation + Grade Assessment: https://www.kaggle.com/competitions/prostate-cancer-grade-assessment/data
+- 3D Teeth Scan Segmentation + Labeling: https://3dteethseg.grand-challenge.org/
+- Carotid Vessel Wall Segementation + Atheosclerosos Diagnosis: https://vessel-wall-segmentation-2022.grand-challenge.org/data/
+- MELA Challenge (Lung CT Lesions Detection): https://mela.grand-challenge.org/
+- Immunofluorescence for Immunohistochemical from Image: https://github.com/nadeemlab/DeepLIIF
+- BIDCell: Biologically-informed deep learning for cell segmentation of subcelluar spatial transcriptomics data: https://github.com/SydneyBioX/BIDCell
+- Mitochondria-EM-Image-Segmentation: https://github.com/wangyiranamy/Mitochondria-EM-Image-Segmentation
+
+## Projects
+
+- **Retinal Layers Segmenters**: https://github.com/Beknaizer/OCT-Retinal-Layer-Segmenter
 
 # Histopathology
 
